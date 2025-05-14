@@ -1,0 +1,14 @@
+img {   
+     width:   300px;
+     border: 2px solid #ccc:
+     border-radius:8px;
+     display: block;
+     margin: 20px 0;
+}
+
+body {
+     backround-color: white;
+     font-family: Arial,sans-serif;
+     margin: 40px;
+     color: #7b9481
+}
